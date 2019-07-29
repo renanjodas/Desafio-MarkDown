@@ -1,8 +1,8 @@
 ## Renan Dias Jodas
 
-- [x] Analista de T.I. @Rocell Transportes
-- [x] Estudante em T.I. @Senac Americana
-- [x] Estudante WebMaster Front-End @Danki-code
+- [x] **Analista de T.I. @Rocell Transportes**
+- [x] **Estudante em T.I. @Senac Americana**
+- [x] **Estudante WebMaster Front-End @Danki-code**
 
 ![FotoPerfil](/cv/Perfil.png)
 
