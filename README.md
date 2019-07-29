@@ -4,7 +4,6 @@
 - [x] Estudante em T.I. @Senac Americana
 - [x] Estudante WebMaster Front-End @Danki-code
 
-![Perfil](/cv/perfil.png)
 ***Nova Odessa, São Paulo, Brasil***
 
 # Redes Sociais
