@@ -8,10 +8,11 @@
 
 ***Nova Odessa, São Paulo, Brasil***
 
-# Redes Sociais
+### Redes Sociais
 
 - [Linkedin](https://www.linkedin.com/in/renanjodas/)
 - [Medium](https://medium.com/@renanjodas)
+
 
 ![HTML5](/cv/02.png)
 ![CSS](/cv/03.png)
