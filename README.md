@@ -5,6 +5,7 @@
 - [x] Estudante WebMaster Front-End @Danki-code
 
 ![FotoPerfil](/cv/Perfil.png)
+
 ***Nova Odessa, São Paulo, Brasil***
 
 # Redes Sociais
