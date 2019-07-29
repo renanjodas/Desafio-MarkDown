@@ -18,4 +18,4 @@
 ![CSS](/cv/03.png)
 ![GIT](/cv/04.png)
 ![EXCEL](/cv/05.png)
-![CSharp](/cv/06.png)
+![CSharp](/cv/07.png)
